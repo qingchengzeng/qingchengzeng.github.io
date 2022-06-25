@@ -4,9 +4,11 @@ layout: default
 
 
 ## About
-Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) on natural language processing, computational linguistics, social computing, and computational phonology.
+Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University as a PhD student, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) on natural language processing (NLP), computational linguistics, social computing, and computational phonology.
 
 Before that, I received my bachelor in linguistics from [University of Manchester](https://www.alc.manchester.ac.uk/linguistics-and-english-language/) and [Zhejiang University](http://www.sis.zju.edu.cn/sisenglish/main.htm) in 2021. After graduation, I am honored to work as a full-time research assistant with Dr. [Jie Yang](https://ylab.top/jieyang/) at Zhejiang University.
+
+My main research interests are at the intersection of NLP, sociolinguistics, and psycholinguistics, including but not limited to topics like automated fact-checking, bias modelling, online harmful contents, automatic discourse processing, and multimodal interaction in dialogues. During my undergraduate studies, I worked extensively in computational phonology and sociophonetics with Dr. [Patrycja Strycharczuk](https://www.research.manchester.ac.uk/portal/patrycja.strycharczuk.html). In sociophonetics, I am particularly interested in using machine learning and deep learning methods to detect language variations and changes.
 
 **Feel free to contact me if your research lies within these or related areas!**
 
@@ -54,56 +56,6 @@ Before that, I received my bachelor in linguistics from [University of Mancheste
   **EMNLP 2020**, *Long paper (Oral)*
   
   [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
-
-- **Learning Latent Forests for Medical Relation Extraction**
-
-  **Zhijiang Guo<sup>*</sup>**, Guoshun Nan<sup>*</sup>, Wei Lu, Shay B. Cohen
-  
-  **IJCAI 2020**, *Long paper (Oral)*
-  
-  [[Paper]](https://www.ijcai.org/Proceedings/2020/0505.pdf) [[Code]](https://github.com/Cartus/Latent-Forests) [[Video]](https://www.ijcai.org/proceedings/2020/video/26651) [[Slides]](./docs/IJCAI2020.pdf) [[PPT]](./docs/IJCAI2020.pptx) [[Poster]](./docs/IJCAI2020_poster.pdf)
-
-- **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**
-
-  Guoshun Nan<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Ivan Sekulic, Wei Lu
-  
-  **ACL 2020**, *Long paper (Oral)*
-  
-  [[Paper]](https://arxiv.org/pdf/2005.06312.pdf) [[Code]](https://github.com/nanguoshun/LSR) [[Video]](https://slideslive.com/38929374/reasoning-with-latent-structure-refinement-for-documentlevel-relation-extraction)  [[Slides]](./docs/LSR.pdf)
-  
-- **Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning**
-
-  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Zhiyang Teng, Wei Lu
-  
-  **TACL 2019**, *Oral at ACL 2019*
-  
-  [[Paper]](https://arxiv.org/pdf/1908.05957.pdf) [[Code]](https://github.com/Cartus/DCGCN) [[Video]](https://vimeo.com/385210377) [[Slides]](./docs/DCGCN.pdf)
-
-- **Attention Guided Graph Convolutional Networks for Relation Extraction**
-
-  **Zhijiang Guo<sup>*</sup>**, Yan Zhang<sup>*</sup>, Wei Lu
-  
-  **ACL 2019**, *Long Paper (Oral)*
-  
-   [[Paper]](https://www.aclweb.org/anthology/P19-1024.pdf) [[Code]](https://github.com/Cartus/AGGCN) [[Video]](https://vimeo.com/383992004) [[Slides]](./docs/AGGCN.pdf)
-
-- **Better Transition-Based AMR Parsing with a Refined Search Space**
-
-  **Zhijiang Guo**, Wei Lu
-  
-  **EMNLP 2018**, *Long Paper (Poster)* 
-  
-  [[Paper]](https://www.aclweb.org/anthology/D18-1198.pdf) [[Code]](https://github.com/Cartus/AMR-Parser) [[Poster]](./docs/poster.pptx)
-  
-
-## Thesis
-- **Learning with Graphs in Natural Language Processing**
-  
-  **Zhijiang Guo**
-  
-  *PhD Thesis*
-  
-  [[Paper]](./docs/thesis.pdf) [[Slides]](./docs/thesis_slides.pdf)
   
   
 ## Education
@@ -119,9 +71,3 @@ Before that, I received my bachelor in linguistics from [University of Mancheste
 - **Sun Yat-sen University**, 2010-2014
     
   BSc in Management & Liberal Arts
-    
-
-## SPC/PC/Reviewer
-
-- **Conference**: ACL/EMNLP/NAACL/NeurIPS/COLING/EACL/AAAI/IJCAI/AKBC/ACML
-- **Journal**: TALLIP/TASLP/TOIS/Neural Computing/Natural Language Engineering/Database/Machine Learning/AI Communications
