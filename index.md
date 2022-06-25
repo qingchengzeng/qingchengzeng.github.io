@@ -4,11 +4,11 @@ layout: default
 
 
 ## About
-Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University as a PhD student, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) on natural language processing (NLP), computational linguistics, social computing, and computational phonology.
+Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University as a PhD student, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) on **natural language processing (NLP), computational linguistics, social computing, and computational phonology**.
 
 Before that, I received my bachelor in linguistics from [University of Manchester](https://www.alc.manchester.ac.uk/linguistics-and-english-language/) and [Zhejiang University](http://www.sis.zju.edu.cn/sisenglish/main.htm) in 2021. After graduation, I am honored to work as a full-time research assistant with Dr. [Jie Yang](https://ylab.top/jieyang/) at Zhejiang University.
 
-My main research interests are at the intersection of NLP, sociolinguistics, and psycholinguistics, including but not limited to topics like automated fact-checking, bias modelling, online harmful contents, automatic discourse processing, and multimodal interaction in dialogues. During my undergraduate studies, I worked extensively in computational phonology and sociophonetics with Dr. [Patrycja Strycharczuk](https://www.research.manchester.ac.uk/portal/patrycja.strycharczuk.html). In sociophonetics, I am particularly interested in using machine learning and deep learning methods to detect language variations and changes.
+My main research interests are at the intersection of NLP, sociolinguistics, and psycholinguistics, including but not limited to topics like **automated fact-checking, bias modelling, online harmful contents, automatic discourse processing, and multimodal interaction in dialogues**. During my undergraduate studies, I worked extensively in computational phonology and sociophonetics with Dr. [Patrycja Strycharczuk](https://www.research.manchester.ac.uk/portal/patrycja.strycharczuk.html). In sociophonetics, I am particularly interested in **using statistical learning and deep learning methods to detect language variations and changes**.
 
 **Feel free to contact me if your research lies within these or related areas!**
 
