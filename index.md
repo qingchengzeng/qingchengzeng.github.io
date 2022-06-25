@@ -14,6 +14,21 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
 
 [[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG)
 
+## Education
+  
+- **Northwestern University**, 2022-Present
+  
+  PhD in Computational Linguistcis, *Advisor: Dr. Rob Voigt*
+  
+- **University of Manchester**, 2019-2021
+    
+  BA(Hons) in Linguistics
+  
+- **Zhejiang University**, 2017-2021
+    
+  BA in English Language and Literature
+  
+
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
@@ -58,16 +73,4 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
   [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
   
   
-## Education
-  
-- **The University of Edinburgh**, 2019-2020
-  
-  Computer Science, *Advisor: Prof. Shay Cohen*
-  
-- **Singapore University of Technology and Design**, 2016-2020
-    
-  Computer Science, *Advisor: Prof. Wei Lu*
-  
-- **Sun Yat-sen University**, 2010-2014
-    
-  BSc in Management & Liberal Arts
+
