@@ -4,9 +4,9 @@ layout: default
 
 
 ## About
-Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/).
+Hello! My name is Qingcheng Zeng (曾庆诚). In September 2022, I will join the [Department of Linguistics](https://linguistics.northwestern.edu/) at Northwestern University, working with Dr. [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/) and Professor [Matt Goldrick](https://faculty.wcas.northwestern.edu/matt-goldrick/#!/) on natural language processing, computational linguistics, social computing, and computational phonology.
 
-Before that, I was in ILCC at the University of Edinburgh, working with Prof. [Shay Cohen](http://homepages.inf.ed.ac.uk/scohen/), Prof. [Giorgio Satta](http://www.dei.unipd.it/~satta/), Prof. [Frank Drewes](https://www.umu.se/en/staff/frank-drewes/) and Prof. [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/) on AMR Parsing. I earned my PhD in Computer Science from SUTD, under the supervision of Prof. [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).  I also learn a lot from Dr. [Zhiyang Teng](http://zeeeyang.github.io/). 
+Before that, I received my bachelor in linguistics from [University of Manchester](https://www.alc.manchester.ac.uk/linguistics-and-english-language/) and [Zhejiang University](http://www.sis.zju.edu.cn/sisenglish/main.htm), respectively.
 
 **Feel free to contact me if your research lies within these or related areas!**
 
