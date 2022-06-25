@@ -12,13 +12,13 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-[[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG)
+[[Github]](https://github.com/Cartus) [[Linkedin]](https://www.linkedin.com/in/zhijiang-guo-aa032837/) [[Google Scholoar]](https://scholar.google.com/citations?hl=zh-CN&user=8b-u3icAAAAJ) [[Twitter]](https://twitter.com/ZhijiangG) [[Email]](mailto:qingchengzeng@outlook.com)
 
 ## Education
   
 - **Northwestern University**, 2022-Present
   
-  PhD in Computational Linguistcis, *Advisor: Dr. Rob Voigt*
+  PhD in Computational Linguistics, *Advisor: Dr. Rob Voigt*
   
 - **University of Manchester**, 2019-2021
     
