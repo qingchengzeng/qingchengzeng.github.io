@@ -56,7 +56,17 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
   **W-NUT 2020**
   
   [[Paper]](/personal_homepage_assets/papers/2009.12997.11008.pdf)
- 
+
+## Preprints
+
+<sup>*</sup> denotes equal contribution.
+
+- **Masked Spectrogram Prediction For Self-Supervised Audio Pre-Training**
+
+  Dading Chong, Helin Wang, Peilin Zhou, **Qingcheng Zeng**
   
+  **INTERSPEECH 2022**
+  
+  [[Paper]](/personal_homepage_assets/papers/2204.12768.pdf)
   
 
