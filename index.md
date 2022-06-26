@@ -22,7 +22,7 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
   
 - **University of Manchester**, 2019-2021
     
-  BA(Hons) in Linguistics
+  BA (Hons) in Linguistics
   
 - **Zhejiang University**, 2017-2021
     
