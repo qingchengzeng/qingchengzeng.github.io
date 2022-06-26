@@ -41,36 +41,22 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
   
   [[Paper]](/personal_homepage_assets/papers/INTERSPEECH_2022.pdf)
 
-- **A Survey on Automated Fact-Checking**
+- **Calibrate and Refine! A Novel and Agile Framework for ASR-error Robust Intent Detection**
 
-  **Zhijiang Guo<sup>*</sup>**, Michael Schlichtkrull<sup>*</sup>, Andreas Vlachos
+  Peilin Zhou, Dading Chong, Helin Wang, **Qingcheng Zeng**
   
-  **TACL 2021**, *Poster at ACL 2022*
+  **INTERSPEECH 2022**
   
-  [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking) [[Code]](https://github.com/Cartus/Automated-Fact-Checking-Resources) [[Slides]](./docs/tacl_slides.pdf) [[Poster]](./docs/tacl_poster.pdf) [[Video]](https://drive.google.com/file/d/17KA4I7pNzitomH39TW0u-DnmF28Bx6_B/view?usp=sharing)
-- **FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information**
+  [[Paper]](/personal_homepage_assets/papers/2205.11008.pdf)
+  
+- **Fancy Man Lauches Zippo at WNUT 2020 Shared Task-1: A Bert Case Model for Wet Lab Entity Extraction**
 
-  Rami Aly, **Zhijiang Guo**, Michael Schlichtkrull, James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Oana Cocarascu, Arpit Mittal
+  Haoding Meng<sup>*</sup>, **Qingcheng Zeng<sup>*</sup>**, Xiaoyang Fang, Zhexin Liang
   
-  **NeurIPS 2021**, *Long paper*
+  **W-NUT 2020**
   
-  [[Paper]](https://arxiv.org/abs/2106.05707) [[Code]](https://github.com/Raldir/FEVEROUS) [[Website]](https://fever.ai/) [[Dataset]](https://fever.ai/resources.html)
-  
-- **Uncovering Main Causalities for Long-tailed Information Extraction**
-
-  Guoshun Nan, Jiaqi Zeng, Rui Qiao, **Zhijiang Guo**, Wei Lu
-  
-  **EMNLP 2021**, *Long paper (Oral)*
-  
-   [[Paper]](https://arxiv.org/pdf/2109.05213.pdf) [[Code]](https://github.com/HeyyyyyyG/CFIE)
-  
-- **Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation**
-
-  Yan Zhang<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Zhiyang Teng, Wei Lu, Shay B. Cohen, Zuozhu Liu, Lidong Bing
-  
-  **EMNLP 2020**, *Long paper (Oral)*
-  
-  [[Paper]](https://arxiv.org/pdf/2010.04383.pdf) [[Code]](https://github.com/yanzhang92/LDGCNs) [[Video]](https://slideslive.com/38939199/lightweight-dynamic-graph-convolutional-networks-for-amrtotext-generation)  [[Slides]](./docs/LDGCN.pdf)
+  [[Paper]](/personal_homepage_assets/papers/2009.12997.11008.pdf)
+ 
   
   
 
