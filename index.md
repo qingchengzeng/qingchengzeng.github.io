@@ -33,13 +33,13 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
 
 <sup>*</sup> denotes equal contribution.
 
-- ****
+- **Low-resource Accent Classification in Geographically-proximate Settings: A Forensic and Sociophonetics Perspective**
 
-  Xuming Hu<sup>*</sup>, **Zhijiang Guo<sup>*</sup>**, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+  **Qingcheng Zeng**, Dading Chong, Peilin Zhou, Jie Yang
   
-  **NAACL 2022**, *Long paper (Oral)*
+  **INTERSPEECH 2022**
   
-  [[Paper]](https://arxiv.org/pdf/2206.11863.pdf) [[Code]](https://github.com/THU-BPM/CHEF) [[Dataset]](https://drive.google.com/file/d/1QKe9i-yXDKh87p4ukRFSnzE03-hAzMto/view) [[Slides]](./docs/chef_slides.pdf)
+  [[Paper]](/personal_homepage_assets/papers/INTERSPEECH_2022.pdf)
 
 - **A Survey on Automated Fact-Checking**
 
