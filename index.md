@@ -65,8 +65,6 @@ My main research interests are at the intersection of NLP, sociolinguistics, and
 
   Dading Chong, Helin Wang, Peilin Zhou, **Qingcheng Zeng**
   
-  **INTERSPEECH 2022**
-  
   [[Paper]](/personal_homepage_assets/papers/2204.12768.pdf)
   
 
